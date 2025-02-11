@@ -1,4 +1,4 @@
-# Network Slicing with ML
+# Network Slicing Identification (NSI) using ML under various label contraints
 
 Kindly cite the below thesis and paper in case anyone wants to use any part of this work.
 
